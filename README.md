@@ -1,4 +1,4 @@
 epic-adventure
 ==============
 
-My first repo for github exploration
+My first repo for garnering github experience
